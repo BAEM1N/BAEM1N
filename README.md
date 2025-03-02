@@ -21,6 +21,7 @@
 - \[SK하이닉스\] - Python을 활용한 데이터 분석 및 머신러닝
 - \[SK하이닉스\] - Lv4. 머신러닝 프로젝트 과정
 - \[SK하이닉스\] - Python을 활용한 딥러닝
+- \[mySUNI] - CDS 온라인 과정
 - \[mySUNI] - Python을 활용한 데이터 분석 및 머신러닝 (SK 전 계열사)
 - \[mySUNI] - DeepLearning Basic for CDS (SK 전 계열사)
 - \[SK에너지\] - Project Based Learning
