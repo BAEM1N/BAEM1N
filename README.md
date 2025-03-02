@@ -7,7 +7,10 @@
 # 🌐 오픈소스 프로젝트
 - [LangChain-Opentutorial](https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial) - 인프라 팀 PM
 
+
 # 🎤 강의
+### 2025
+- \[삼성전자\] -  생성형 AI 기본과정(PyTorch, HuggingFace, LangChain) 강의
 ### 2024
 - \[삼성인력개발원\] -  HR Analytics
 - \[삼성전기\] - 파이썬을 활용한 데이터 분석 기초
