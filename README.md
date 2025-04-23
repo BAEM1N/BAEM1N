@@ -10,13 +10,13 @@
 
 # 🎤 강의
 ### 2025
-- \[삼성전자\] -  생성형 AI 기본과정(PyTorch, HuggingFace, LangChain) 강의
+- \[삼성전자\] -  AI Essential 과정 강의, LLM 이해와 활용 과정 강의
 ### 2024
 - \[삼성인력개발원\] -  HR Analytics
 - \[삼성전기\] - 파이썬을 활용한 데이터 분석 기초
 - \[GS칼텍스\] - 파이썬을 활용한 데이터 분석
 - \[삼성전기\] -  신입 DX 교육
-- \[삼성전자\] -  생성형 AI 기본과정(PyTorch, HuggingFace, LangChain) 강의
+- \[삼성전자\] -  AI Essential 과정 강의
 ### 2022
 - \[SK하이닉스\] - Python을 활용한 데이터 분석 및 머신러닝
 - \[SK하이닉스\] - Lv4. 머신러닝 프로젝트 과정
