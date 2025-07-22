@@ -10,7 +10,8 @@
 
 # 🎤 강의
 ### 2025
-- \[삼성전자\] -  AI Essential 과정 강의, LLM 이해와 활용 과정 강의
+- \[SK이노베이션\] - ML/DL CAMP
+- \[삼성전자\] -  AI Essential, AI Seed Track, BigData Track, Cursor AI
 ### 2024
 - \[삼성인력개발원\] -  HR Analytics
 - \[삼성전기\] - 파이썬을 활용한 데이터 분석 기초
