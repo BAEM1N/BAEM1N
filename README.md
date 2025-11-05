@@ -12,7 +12,9 @@
 ### 2025
 - \[SK텔레콤\] - SKADA 자격 시험 대비반
 - \[SK이노베이션\] - ML/DL CAMP
-- \[삼성전자\] -  AI Essential, AI Seed Track, BigData Track, Cursor AI
+- \[SK에너지\] - 실무ML PJT 과정(머신러닝)
+- \[mySUNI\] - RAG 기반 LLM 서비스 개발, 서비스 운영을 위한 LLMOps
+- \[삼성전자\] -  AI Essential, AI Seed Track, BigData Track, Cursor AI를 활용한 서비스 개발, Ollama를 이용한 AI Agent 개발
 ### 2024
 - \[삼성인력개발원\] -  HR Analytics
 - \[삼성전기\] - 파이썬을 활용한 데이터 분석 기초
