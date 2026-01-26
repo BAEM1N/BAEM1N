@@ -10,6 +10,8 @@
 
 # 🎤 강의
 ### 2025
+- \[삼성전자MX\] - AI Agent Full Stack
+### 2025
 - \[SK텔레콤\] - SKADA 자격 시험 대비반
 - \[SK이노베이션\] - ML/DL CAMP
 - \[SK에너지\] - 실무ML PJT 과정(머신러닝)
