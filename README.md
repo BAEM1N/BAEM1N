@@ -10,13 +10,15 @@
 
 # 🎤 강의
 ### 2026
+- \[삼성SDS\] - RAG 입문, RAG 심화
 - \[삼성전자MX\] - AI Agent Full Stack
 ### 2025
 - \[SK텔레콤\] - SKADA 자격 시험 대비반
-- \[SK이노베이션\] - ML/DL CAMP
+- \[SK이노베이션\] - ML/DL CAMP, 전략·협력 조직의 AI Agent 활용(AI Agent와 Graph RAG 기반의 전략 조직 혁신)
 - \[SK에너지\] - 실무ML PJT 과정(머신러닝)
 - \[mySUNI\] - RAG 기반 LLM 서비스 개발, 서비스 운영을 위한 LLMOps
 - \[삼성전자\] -  AI Essential, AI Seed Track, BigData Track, Cursor AI를 활용한 서비스 개발, Ollama를 이용한 AI Agent 개발
+- \[멀티캠퍼스\] -  [바이브코딩] 데이터 분석, 바이브 있게 마스터하기, [바이브코딩] 공공특화 데이터 분석, 바이브 있게 마스터하기
 ### 2024
 - \[삼성인력개발원\] -  HR Analytics
 - \[삼성전기\] - 파이썬을 활용한 데이터 분석 기초
