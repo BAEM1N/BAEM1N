@@ -4,10 +4,6 @@
 
 🏅Tensorflow Certificate 🏅빅데이터 분석기사
 
-# 🌐 오픈소스 프로젝트
-- [LangChain-Opentutorial](https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial) - 인프라 팀 PM
-
-
 # 🎤 강의
 ### 2026
 - \[삼성SDS\] - RAG 입문, RAG 심화
@@ -72,7 +68,11 @@
 - \[오픈스퀘어D\] - 대학 연계 공공데이터 활용 실습 교육 (숙명여대, 서경대, 경북대, 영남대, 강원대)
 - \[SK하이닉스\] - Python을 활용한 데이터 분석 및 머신러닝
   
+# 🌐 오픈소스 프로젝트
+- [LangChain-Opentutorial](https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial) - 인프라 팀 PM
+
 # 📁 프로젝트 
+- \[육군미래혁신연구센터\] - AI지휘결심 지원을 위한 프로토타입 설계 및 제작연구
 - \[육군미래혁신연구센터\] - EO, SAR 위성 영상 기반 시각적질의응답모델개발
 - \[육군미래혁신연구센터\] - 국방 AI 감시 정찰체계를위한데이터관리및분석플랫폼개발
 - \[경기연구원\] - 감염병 대응을 위한 데이터 분석 및 활용체계 운영방안
