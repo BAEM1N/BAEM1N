@@ -1,6 +1,7 @@
-# 👋 BAEM1N (배기민) <a href="https://baem1n.dev/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="baem1n" height="30" width="30" /></a> <a href="https://www.linkedin.com/in/baem1n/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/baem1n" height="30" width="40" /></a>
+# 👋 BAEM1N (배기민) 
+<a href="https://www.linkedin.com/in/baem1n/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/baem1n" height="30" width="40" /></a>
 
-📌 Data Science/ML/DL 📌 Founder of DDOK.AI Inc. 📌 Currently working with @JAEN
+📌 Data Science/ML/DL 📌 Founder of DDOK.AI Inc. 📌 Currently working with @JAEN, @Multicampus 
 
 🏅Tensorflow Certificate 🏅빅데이터 분석기사
 
