@@ -13,8 +13,6 @@
 - \[SK에너지\] - 실무 PJT 과정(CLX AI Step-Up)
 - \[SK에너지\] - 실무 PJT 과정(CLX AI Step-Up)
 - \[삼성SDS\] - RAG 입문, RAG 심화
-- \[삼성SDS\] - RAG 입문, RAG 심화
-- \[삼성SDS\] - RAG 입문, RAG 심화
 - \[삼성전자MX\] - AI Agent Full Stack
 ### 2025
 - \[SK텔레콤\] - SKADA 자격 시험 대비반
