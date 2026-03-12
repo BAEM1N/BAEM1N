@@ -7,6 +7,13 @@
 
 # 🎤 강의
 ### 2026
+- \[SK하이닉스\]— NoCode 기반 AI 에이전트 자동화 실습 (예정)
+- \[SK하이닉스\] — AI 에이전트 프레임워크 실전구현 (예정)
+- \[SK하이닉스\]— LLM 활용과 고급화 과정
+- \[SK에너지\] - 실무 PJT 과정(CLX AI Step-Up)
+- \[SK에너지\] - 실무 PJT 과정(CLX AI Step-Up)
+- \[삼성SDS\] - RAG 입문, RAG 심화
+- \[삼성SDS\] - RAG 입문, RAG 심화
 - \[삼성SDS\] - RAG 입문, RAG 심화
 - \[삼성전자MX\] - AI Agent Full Stack
 ### 2025
